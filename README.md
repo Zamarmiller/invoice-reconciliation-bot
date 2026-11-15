@@ -100,3 +100,7 @@ The tests also run on GitHub Actions for Python 3.10, 3.12, and 3.13.
 - Monthly or custom budget periods
 - Excel input/output
 - Email or Slack summaries of flagged items
+
+## License
+
+[MIT](LICENSE)
