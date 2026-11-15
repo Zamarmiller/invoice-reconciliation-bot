@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invoice-reconciliation-bot"
+version = "0.1.0"
+description = "Reconcile vendor invoices against departmental budget lines and flag exceptions."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+recon-bot = "recon_bot.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

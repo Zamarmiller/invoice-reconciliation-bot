@@ -1,0 +1,7 @@
+budget_code,department,category,period,allocated
+BC-100,Marketing,Advertising,2026-Q1,15000.00
+BC-110,Marketing,Events,2026-Q1,8000.00
+BC-200,Engineering,Software Licenses,2026-Q1,12000.00
+BC-210,Engineering,Cloud Hosting,2026-Q1,20000.00
+BC-300,Operations,Office Supplies,2026-Q1,3000.00
+BC-310,Operations,Facilities,2026-Q1,10000.00

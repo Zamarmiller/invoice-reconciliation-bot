@@ -1,0 +1,16 @@
+invoice_id,vendor,invoice_date,budget_code,amount,status
+INV-1001,Acme Media Group,2026-01-08,BC-100,4200.00,approved
+INV-1002,Acme Media Group,2026-02-10,BC-100,5100.00,approved
+INV-1003,Bright Events LLC,2026-01-22,BC-110,6500.00,approved
+INV-1004,Bright Events LLC,2026-03-05,BC-110,2250.00,pending
+INV-1005,Nimbus Cloud Inc.,2026-01-31,BC-210,6800.00,approved
+INV-1006,Nimbus Cloud Inc.,2026-02-28,BC-210,7100.00,approved
+INV-1007,Nimbus Cloud Inc.,2026-03-31,BC-210,7400.00,pending
+INV-1008,Codeworks Software,2026-01-15,BC-200,9600.00,approved
+INV-1009,Paper Trail Supplies,2026-02-03,BC-300,412.75,approved
+INV-1010,Paper Trail Supplies,2026-02-03,BC-300,412.75,approved
+INV-1011,Greenleaf Facilities,2026-03-12,BC-999,1850.00,pending
+INV-1012,Greenleaf Facilities,2026-01-20,BC-310,3300.00,approved
+INV-1013,Acme Media Group,2026-04-02,BC-100,1500.00,pending
+INV-1014,Codeworks Software,2026-03-01,BC-200,1500.00,pending
+INV-1015,Paper Trail Supplies,2026-03-15,BC-300,99.00,rejected
